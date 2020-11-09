@@ -4,4 +4,4 @@ Run web page:
 npm run dev (localhost 3000)
 
 Continue:
-https://nextjs.org/learn/basics/assets-metadata-css (chapter 5)
+https://nextjs.org/learn/basics/data-fetching (chapter 1)
